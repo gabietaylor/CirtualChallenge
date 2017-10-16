@@ -13,3 +13,10 @@
 
 * React is popular. While this reason has admittedly little to do with React's quality, the truth is that understanding React will make you more employable.
 
+# JSX
+#### JSX is a syntax extension for JavaScript. It was written to be used with React. JSX code looks a lot like HTML.
+
+#### If a JavaScript file contains JSX code, then that file will have to be compiled. That means that before the file reaches a web browser, a JSX compiler will translate any JSX into regular JavaScript.
+
+# JSX Elements
+#### A basic unit of JSX is called a JSX _element_. This JSX element looks exactly like HTML! The only noticeable difference is that you would find it in a JavaScript file, instead of in an HTML file.
