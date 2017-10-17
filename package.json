@@ -1,0 +1,19 @@
+{
+    "name": "reactreduxprac",
+    "version": "1.0.0",
+    "description": "React is fast. Apps made in React can handle complex updates and still feel quick and responsive.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gabietaylor/ReactReduxPractice.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gabietaylor/ReactReduxPractice/issues"
+    },
+    "homepage": "https://github.com/gabietaylor/ReactReduxPractice#readme"
+}
